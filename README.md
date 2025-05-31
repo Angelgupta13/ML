@@ -16,5 +16,5 @@ This repository is a structured log of my daily progress as I learn, build, and 
 | 6   | PENDING     | ✅ Decision Trees & Random Forest basics                         | Scikit-learn                       |
 | 7   | PENDING     | ✅ Cross-validation, bias-variance tradeoff,Silhouette Score     | Scikit-learn                       |
 | 8   | 2025-05-28  | ✅ Clustering (KMeans, Agglomerative)                            | Scikit-learn                       |
-| 9   | YYYY-MM-DD  | ✅ PCA (Dimensionality Reduction), Feature Scaling               | Scikit-learn                       |
-| 10  | YYYY-MM-DD  | ✅ Mini Project: Iris Dataset Classifier                         | Jupyter, Scikit-learn              |
+| 9   |  PENDING    | ✅ PCA (Dimensionality Reduction), Feature Scaling               | Scikit-learn                       |
+| 10  | PENDING     | ✅ Mini Project: Iris Dataset Classifier                         | Jupyter, Scikit-learn              |
